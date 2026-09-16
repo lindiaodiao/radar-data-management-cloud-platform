@@ -6,6 +6,8 @@
 
 [在线播放：数据远程管理云平台软件_完整功能原始操作录屏.mp4](./操作录屏/数据远程管理云平台软件_完整功能原始操作录屏.mp4)
 
+网页播放器（GitHub Pages）：https://lindiaodiao.github.io/radar-data-management-cloud-platform/
+
 - 时长：约 243.9 秒
 - 分辨率：1920 × 1030
 - 内容：真实 SLC 二维剖面、二维处理、AI 异常候选、真实 NPY 三维体、成果输出、远程数据管理和设备管理
