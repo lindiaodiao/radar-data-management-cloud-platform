@@ -4,7 +4,7 @@
 
 点击下面的视频文件即可在 GitHub 页面中直接查看：
 
-[在线播放：数据远程管理云平台软件_完整功能原始操作录屏.mp4](./操作录屏/数据远程管理云平台软件_完整功能原始操作录屏.mp4)
+[在线播放：数据远程管理云平台软件_完整功能原始操作录屏.mp4](https://github.com/lindiaodiao/radar-data-management-cloud-platform/releases/download/v1.0/radar-platform-complete-walkthrough.mp4)
 
 网页播放器（GitHub Pages）：https://lindiaodiao.github.io/radar-data-management-cloud-platform/
 
